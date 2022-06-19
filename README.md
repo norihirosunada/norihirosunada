@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @norihirosunada
 - 👀 I’m interested in Atcoder.
-- 🌱 I’m currently learning Android app and ML.
+- 🌱 I’m currently learning Web App, Android App and ML.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
